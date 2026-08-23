@@ -1,110 +1,110 @@
 {
-  "updated_at": "2026-08-23T19:30:47+00:00",
+  "updated_at": "2026-08-23T19:51:34+00:00",
   "products": {
     "p3755": {
       "name": "Bladeless Hot & Cool Fan 2000W Black — Grade B",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/bladeless-oscillating-hot-cool-fan-with-remote-control-2000w-black-grade-b-unused-return-p3755",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:20+00:00"
+      "checked_at": "2026-08-23T19:51:08+00:00"
     },
     "p2724": {
       "name": "Portable Air Conditioner 12000 BTU",
       "url": "https://www.jackstonehouse.com/air-conditioners-c398/portable-air-conditioning-unit-12000btu-cooling-fan-aircon-p2724",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:22+00:00"
+      "checked_at": "2026-08-23T19:51:10+00:00"
     },
     "p2984-255": {
       "name": "33-inch Portable Pedestal Fan with Remote",
       "url": "https://www.jackstonehouse.com/33-portable-pedestal-stand-fan-with-remote-control-p2984#attribute%5B2%5D=255",
       "status": "in_stock",
       "evidence": "Structured data says InStock",
-      "checked_at": "2026-08-23T19:30:24+00:00"
+      "checked_at": "2026-08-23T19:51:12+00:00"
     },
     "p3178-255": {
       "name": "Standing Air Circulator Grey/White — Grade B",
       "url": "https://www.jackstonehouse.com/clearance-c763/portable-standing-fan-air-circulator-oscillating-grey-white-grade-b-unused-return-p3178#attribute%5B2%5D=255",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:26+00:00"
+      "checked_at": "2026-08-23T19:51:13+00:00"
     },
     "p3502": {
       "name": "Bladeless Hot & Cool Fan 2000W White",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/bladeless-oscillating-hot-cool-fan-with-remote-control-2000w-white-p3502",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:28+00:00"
+      "checked_at": "2026-08-23T19:51:15+00:00"
     },
     "p3566": {
       "name": "Bladeless Hot & Cool Fan 2000W — Grade B",
       "url": "https://www.jackstonehouse.com/clearance-c763/bladeless-oscillating-hot-cool-fan-with-remote-control-2000w-grade-b-unused-return-p3566",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:30+00:00"
+      "checked_at": "2026-08-23T19:51:17+00:00"
     },
     "p3653": {
       "name": "Portable 8L Cold Water Air Cooler",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/air-coolers-c768/portable-8l-cold-water-air-cooler-fan-3-speed-oscillating-not-air-conditioner-p3653",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:32+00:00"
+      "checked_at": "2026-08-23T19:51:19+00:00"
     },
     "p3717": {
       "name": "9000 BTU Air Conditioning Unit",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/air-conditioning-c520/9000btu-air-conditioning-unit-p3717",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:34+00:00"
+      "checked_at": "2026-08-23T19:51:21+00:00"
     },
     "p3722": {
       "name": "Bladeless Hot & Cool Fan 2000W Black",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/bladeless-oscillating-hot-cool-fan-with-remote-control-2000w-black-p3722",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:36+00:00"
+      "checked_at": "2026-08-23T19:51:23+00:00"
     },
     "p3731": {
       "name": "42-inch Bladeless Tower Fan",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/fans-c521/42-bladeless-oscillating-tower-fan-with-remote-control-quiet-cooling-3-speeds-3-modes-7-5-hour-timer-p3731",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:37+00:00"
+      "checked_at": "2026-08-23T19:51:25+00:00"
     },
     "p3744": {
       "name": "Portable Air Conditioner 5000 BTU — Grade B",
       "url": "https://www.jackstonehouse.com/home-c515/portable-air-conditioning-unit-5000btu-cooling-fan-dehumidifier-grade-b-unused-return-p3744",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:39+00:00"
+      "checked_at": "2026-08-23T19:51:27+00:00"
     },
     "p3745": {
       "name": "42-inch Bladeless Tower Fan — Grade B",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/fans-c521/42-bladeless-oscillating-tower-fan-with-remote-control-quiet-cooling-3-speeds-3-modes-7-5-hour-timer-grade-b-unused-return-p3745",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:42+00:00"
+      "checked_at": "2026-08-23T19:51:29+00:00"
     },
     "p3746": {
       "name": "Portable 8L Cold Water Air Cooler — Grade B",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/air-coolers-c768/portable-8l-cold-water-air-cooler-fan-3-speed-oscillating-not-air-conditioner-grade-b-return-p3746",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:44+00:00"
+      "checked_at": "2026-08-23T19:51:31+00:00"
     },
     "p3748": {
       "name": "9000 BTU Air Conditioning Unit — Grade B",
       "url": "https://www.jackstonehouse.com/home-c515/cooling-c706/air-conditioning-c520/9000btu-air-conditioning-unit-grade-b-unused-return-p3748",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:46+00:00"
+      "checked_at": "2026-08-23T19:51:32+00:00"
     },
     "p3753-254": {
       "name": "33-inch Pedestal Fan Black/White — Grade B",
       "url": "https://www.jackstonehouse.com/33-portable-pedestal-stand-fan-with-remote-control-black-white-grade-b-unused-return-p3753#attribute%5B2%5D=254",
       "status": "out_of_stock",
       "evidence": "Structured data says OutOfStock",
-      "checked_at": "2026-08-23T19:30:47+00:00"
+      "checked_at": "2026-08-23T19:51:34+00:00"
     }
   }
 }
